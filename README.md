@@ -1,6 +1,6 @@
 # 💫 About Me:
-<h1 align="left">hi, i'm finn</h3>
-<h3 align="left">a student from somewhere of vietnam</h3>
+<h1 align="center">hi, i'm finn</h3>
+<h3 align="center">a student from somewhere of vietnam</h3>
 
 
 - 🏫 I'm currently learning Golang, Rust
