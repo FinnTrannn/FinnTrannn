@@ -1,10 +1,7 @@
-# 💫 About Me:
-<h1 align="center">hi, i'm finn</h3>
+<h1 align="center">💫 hi, i'm finn</h3>
 <h3 align="center">a student from somewhere of vietnam</h3>
 
-
 - 🏫 I'm currently learning Golang, Rust
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/finntrannn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/finntrannn) 
