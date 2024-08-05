@@ -1,6 +1,8 @@
 # 💫 About Me:
-<p><center>a student at somewhere of vietnam</center></p>
-🏫 I'm currently learning Golang, Rust
+<h3 align="center">a student from somewhere of vietnam</h3>
+
+
+- 🏫 I'm currently learning Golang, Rust
 
 
 ## 🌐 Socials:
